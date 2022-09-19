@@ -1,0 +1,37 @@
+.banner{
+    background: url('../public/hotel2.jpg'); height: 450px; width: 100%; 
+    background-repeat: repeat-y;
+}
+
+.fotoconteudo{
+    background: url('../public/hotelconteudo.jpq'); height: 300px; width: 100%; 
+    background-repeat: repeat-y;
+    
+}
+
+.fotogrip1{
+
+    background: url('../public/ilhafoto3.png'); height: 450px; width: 100%; 
+    background-repeat: repeat-y;
+}
+
+.fotogrip2{
+
+background: url('../public/imgmedium.png'); height: 230px; width: 100%; 
+background-repeat: repeat-y;
+}
+.fotogrip3{
+
+background: url('../public/imgpequena1.png'); height: 200px; width: 100%; 
+background-repeat: repeat-y;
+}
+.fotogrip4{
+
+background: url('../public/imgpequena2.png'); height: 200px; width: 100%; 
+background-repeat: repeat-y;
+}
+
+.whatsicone{
+    background: url('../public/instagram.png'); height: 200px; width: 100%; 
+background-repeat: repeat-y;
+}
