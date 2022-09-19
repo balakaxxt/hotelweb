@@ -210,7 +210,7 @@ function App() {
             <div className="col-span-2 row-span-2 rounded-lg overflow-hidden">
 
             <div className="relative w-full h-full object-cover fotogrip1">.
-            <img src="../public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
+            <img src="/src/public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
 
               {/* nomes na frente da foto */}
 
@@ -226,7 +226,7 @@ function App() {
 
             <div className="col-span-2 h-30 rounded-lg overflow-hidden">
               <div className=" relative fotogrip2 w-full h-full object-cover z-10">
-                 <img src="../public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
+                 <img src="/src/public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
 
               {/* nomes na frente da foto */}
 
@@ -244,7 +244,7 @@ function App() {
             <div className="  rounded-lg overflow-hidden">
             <div className="relative fotogrip3
             w-full h-full object-cover">
-              <img src="../public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
+              <img src="/src/public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
 
               {/* nomes na frente da foto */}
 
@@ -264,7 +264,7 @@ function App() {
             <div className="rounded-lg overflow-hidden">
               
             <div className="relative fotogrip4 w-full h-full object-cover">
-              <img src="../public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
+              <img src="/src/public/img-shadow1.png" className="absolute bottom-0 left-0 right-0 h-5 z-10"></img>
 
               {/* nomes na frente da foto */}
 
@@ -367,16 +367,16 @@ function App() {
       
    
     <a href="">
-      <img src="../public/facebook.jpg" height="20x" width="30%"></img>
+      <img src="/src/public/facebook.jpg" height="20x" width="30%"></img>
     </a>
 
     
     <a href="">
-      <img src="../public/instagram.jpg" height="20x" width="30%"></img>
+      <img src="/src/public/instagram.jpg" height="20x" width="30%"></img>
     </a>
 
     <a href="">
-      <img src="../public/whats-icone.jpg" height="20x" width="30%"></img>
+      <img src="/src/public/whats-icone.jpg" height="20x" width="30%"></img>
     </a>
 
     
